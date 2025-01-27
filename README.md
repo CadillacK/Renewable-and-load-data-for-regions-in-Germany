@@ -1,4 +1,4 @@
-# Renewable-energy-and-load-data-for-representative-regions-in-Germany
+# Renewable energy and load data for representative regions in Germany
 Historical data of installed capacity of renewable energy in representative regions of Germany.
 Original data source: Pfenninger Stefan, Staffell Iain. Renewables.ninja. 2018, URL https://www.renewables.ninja/.
 
